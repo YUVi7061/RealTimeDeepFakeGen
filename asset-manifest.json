@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RealTimeDeepFakeGen/static/css/main.e8193867.css",
+    "main.js": "/RealTimeDeepFakeGen/static/js/main.0071710a.js",
+    "static/js/453.0f9510fc.chunk.js": "/RealTimeDeepFakeGen/static/js/453.0f9510fc.chunk.js",
+    "index.html": "/RealTimeDeepFakeGen/index.html",
+    "main.e8193867.css.map": "/RealTimeDeepFakeGen/static/css/main.e8193867.css.map",
+    "main.0071710a.js.map": "/RealTimeDeepFakeGen/static/js/main.0071710a.js.map",
+    "453.0f9510fc.chunk.js.map": "/RealTimeDeepFakeGen/static/js/453.0f9510fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8193867.css",
+    "static/js/main.0071710a.js"
+  ]
+}
