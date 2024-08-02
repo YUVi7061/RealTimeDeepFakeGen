@@ -1,0 +1,40 @@
+/* HomePage.css */
+
+.home-container {
+    background: linear-gradient(135deg, #1a1a1a, #333333); /* Dark gradient background */
+    color: #ffffff;
+    padding: 40px 20px;
+  }
+  
+  .home-title {
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+  }
+  
+  .home-description {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  .get-started-button {
+    background: linear-gradient(45deg,red,maroon);
+    border: none;
+    border-radius: 12px;
+  }
+  
+  .get-started-button:hover {
+    background: linear-gradient(45deg, green,yellow);
+  }
+  
+  .home-card {
+    border: none;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    background: rgba(255, 255, 255, 0.1); /* Transparent background */
+    backdrop-filter: blur(10px); /* Blur effect for the transparent background */
+  }
+  
+  .home-card img {
+    border-radius: 12px 12px 0 0;
+  }

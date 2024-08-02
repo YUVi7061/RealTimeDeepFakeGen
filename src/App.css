@@ -1,0 +1,29 @@
+/* DeepfakeApp.css */
+
+.deepfake-container {
+  background-color: #121212;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.preview-paper, .upload-paper {
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #1e1e1e;
+  margin-bottom: 20px;
+}
+
+video, canvas {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+button {
+  margin-top: 20px;
+}
