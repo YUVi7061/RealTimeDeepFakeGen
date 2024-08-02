@@ -33,7 +33,7 @@
     "deploy": "gh-pages -d build"
     
   },
-  "homepage": "https://YUVi7061.github.io/RealTimeDeepfake",
+  "homepage": "https://YUVi7061.github.io/RealTimeDeepfakeGen",
   "eslintConfig": {
     "extends": [
       "react-app",
